@@ -10,3 +10,4 @@ so why not use command line
 just ask the howdoi
 
 /*我用这个项目来训练我的python能力*/
+*---我为每一段代码都写了注释
